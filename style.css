@@ -197,7 +197,7 @@ body{
     }
 }
 
-.logo0{
+.logo1{
     background-image: url(./assets/pngwing4.png);
     background-size: cover;
     padding: 84px;
@@ -208,7 +208,7 @@ body{
     
 }
 
-.logo1{
+.logo2{
     background-image: url(./assets/pngwing1.png);
     background-size: cover;
     padding: 84px;
@@ -219,7 +219,7 @@ body{
     
 }
 
-.logo2{
+.logo3{
     background-image: url(./assets/pngwing5.png);
     background-size: cover;
     padding: 84px;
