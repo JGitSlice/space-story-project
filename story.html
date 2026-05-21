@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Space Story</title>
+        <style>
+            @import url(style.css);
+        </style>
+    </head>
+    <body>
+        <div class="story-card">
+            <div>
+                <h1>Space Survival</h1>
+                <p id="story">
+                    <br>Your spaceship drifted silently through the darkness of deep space.<br>
+                    Most of the ship’s systems were damaged after a mysterious explosion.<br>
+                    A weak emergency signal echoed somewhere beyond the nearby stars.<br>
+                    Now, your survival depends on the choices you make next.
+                </p>
+                <button id="button1" class="button1" onclick="repairShip()">
+                    Repair Ship
+                </button>
+                <button id="button2" class="button2" onclick="sendSignal()">
+                    Send Signal
+                </button>
+            </div>
+
+            <div class="img-card" id="img-card">
+                
+            </div>
+        </div>
+        <button class="exit-button" id="exit-button" onclick="goToMenu()">x</button>
+        <script src="script.js"></script>
+    </body>
+</html>
