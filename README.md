@@ -101,25 +101,25 @@ Users are presented with different story scenarios and choices that influence th
 
 ### Alternative Story Path
 
-![Alternative Story Path](screenshots/live-website-3.png)
+![Alternative Story Path](screenshots/live-website-4.png)
 
 Different choices lead users through unique story paths, creating an interactive experience.
 
 ### Secret Ending
 
-![Secret Ending](screenshots/live-website-4.png)
+![Secret Ending](screenshots/live-website-5.png)
 
 The project includes multiple endings, including special outcomes based on user decisions.
 
 ### Game Over Screen
 
-![Game Over Screen](screenshots/live-website-5.png)
+![Game Over Screen](screenshots/live-website-6.png)
 
 Certain choices can result in a game-over scenario, encouraging users to replay and explore different outcomes.
 
 ### Additional Story Path
 
-![Additional Story Path](screenshots/live-website-6.png)
+![Additional Story Path](screenshots/live-website-3.png)
 
 The website provides multiple branching paths, increasing user engagement and replayability.
 
