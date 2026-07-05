@@ -123,6 +123,10 @@ Certain choices can result in a game-over scenario, encouraging users to replay 
 
 The website provides multiple branching paths, increasing user engagement and replayability.
 
+### Website Demo
+
+▶️ [Watch the website demo](screenshots/FinalPreview.webm)
+
 # Project Outcome
 
 The Space Story Project was successfully developed and deployed using AWS cloud services and DevOps practices.
